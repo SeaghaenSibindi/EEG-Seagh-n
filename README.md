@@ -5,14 +5,13 @@ I was using pretty subpar hardware which meant I really had to support it with p
 ( I am not yet familiar with Github, but I will try make this readable.)
 
 
-**
-WEEK 4 overview ** (earlier weeks are to be added.) 
+# **WEEK 4 overview** (earlier weeks are to be added.) 
 
 
 ![Week 4](Figure_1.png)
 
 
-#A bit of validation
+# A( bit of validation)
 
 I compared the signals from an electrode that was connected to my friends forehead and one that was just rested on a table. 
 ![comparison](comparisonofactiveelectrodegroupandinactiveelectrodegroup.png)

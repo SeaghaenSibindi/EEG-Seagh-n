@@ -15,4 +15,4 @@ WEEK 4 overview ** (earlier weeks are to be added.)
 #A bit of validation
 
 I compared the signals from an electrode that was connected to my friends forehead and one that was just rested on a table. 
-![comparison](comparison_of_active_electrode_group_and_inactive_electrode_group.png)
+![comparison](comparisonofactiveelectrodegroupandinactiveelectrodegroup.png)

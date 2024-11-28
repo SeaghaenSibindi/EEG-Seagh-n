@@ -6,7 +6,6 @@ const int rightModulePin = A1;
 const int samplingRate = 500;
 const unsigned long samplingInterval = 1000 / samplingRate; 
 
-
 void setup() {
   Serial.begin(115200); 
 }
@@ -26,4 +25,4 @@ void loop() {
     Serial.print("\t");
     Serial.println(rightsignal); // Raw signal from Right Module
   }
-}""
+}

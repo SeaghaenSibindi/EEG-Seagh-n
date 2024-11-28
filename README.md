@@ -12,6 +12,7 @@ WEEK 4 overview ** (earlier weeks are to be added.)
 ![Week 4](Figure_1.png)
 
 
-I used 
+#A bit of validation
 
-![comparison](comparison of active electrode group and inactive electrode group.png)
+I compared the signals from an electrode that was connected to my friends forehead and one that was just rested on a table. 
+![comparison](comparison_of_active_electrode_group_and_inactive_electrode_group.png)

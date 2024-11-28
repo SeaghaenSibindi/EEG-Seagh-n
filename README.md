@@ -10,3 +10,8 @@ WEEK 4 overview ** (earlier weeks are to be added.)
 
 
 ![Week 4](Figure_1.png)
+
+
+I used 
+
+![comparison](comparison of active electrode group and inactive electrode group.png)

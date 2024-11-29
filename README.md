@@ -15,3 +15,5 @@ I was using pretty subpar hardware which meant I really had to support it with p
 
 I compared the signals from an electrode that was connected to my friends forehead and one that was just rested on a table. 
 ![comparison](comparisonofactiveelectrodegroupandinactiveelectrodegroup.png)
+
+The lower amplitudes and higher frequencies my just be noise, but the blinking activity was detected as being more than just the noise.

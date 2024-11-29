@@ -1,5 +1,6 @@
 This is my entry for TECS
 
+The EEG specificiation are derived from this here[https://www.instructables.com/Mind-Control-3-EEG-Monitor/] 
 
 I was using pretty subpar hardware which meant I really had to support it with post processing in order to get anything that worked. 
 ( I am not yet familiar with Github, but I will try make this readable.)
